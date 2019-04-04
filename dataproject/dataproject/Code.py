@@ -42,7 +42,7 @@ mergeddata = mergeddata.dropna()
 mergeddata.Unemployment = mergeddata.Unemployment.astype('float')
 mergeddata.gdp_growth = mergeddata.gdp_growth.astype('float')
 
-#Statistics (from problem set):
+#Statistics:
 mergeddata['gdp_growth'].describe()
 mergeddata['Unemployment'].describe()
 
