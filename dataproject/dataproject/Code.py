@@ -93,5 +93,3 @@ fig = plt.gcf()
 ax.set_ylabel('gdp_growth') 
 ax.set_xlabel('Unemployment')
 
-#Testing the model:
-
