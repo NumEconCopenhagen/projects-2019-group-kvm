@@ -3,7 +3,7 @@
 In this project we analyze a consumer problem with a CES utility function and two goods, x1 and x2.
 
 The utility function: alpha is a preference parameter and rho is the elasticity parameter
-The income is 30 and the prices of the goods are: \\[ p_1=2, p_2=4\\].
+The income is 30 and the prices of the goods are: p_1=2, p_2=4.
 
 First we investigate the jacobian and hessian matrix and how to use gradient based optimizers. In this section we use the *minimize_gradient_descent()* method.
 
