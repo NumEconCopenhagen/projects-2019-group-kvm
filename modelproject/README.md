@@ -7,9 +7,9 @@ The income is 30 and the prices of the goods are: \\[ p_1=2, p_2=4\\].
 
 First we investigate the jacobian and hessian matrix and how to use gradient based optimizers. In this section we use the *minimize_gradient_descent()* method.
 
-In the next section the budget constraint is introduced and we ty to solve the consumer problem using a *Multi-dimensional constrained solver*.
+In the next section the budget constraint is introduced and we try to solve the consumer problem using a *Multi-dimensional constrained solver*.
 
-After this the consumer problem is solved by using the optimizer **SLSQP**.
+After this the consumer problem is solved by using the **SLSQP** optimizer.
 
 In the last section we introduce an extension to the problem where we impose a tax on good x2, which increases the price p2 with 0.5 for each consumed x2. 
 
